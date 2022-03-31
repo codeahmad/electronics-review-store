@@ -16,7 +16,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<maven.compiler.source>1.14</maven.compiler.source>
 		<maven.compiler.target>1.14</maven.compiler.target>
-		<springframework.version>5.2.7.RELEASE</springframework.version>
+		<springframework.version>5.3.18</springframework.version>
 		<springsecurity.version>5.3.3.RELEASE</springsecurity.version>
 	</properties>
 
